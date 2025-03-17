@@ -8,11 +8,11 @@
 - [C/C++](https://github.com/Jonyge/Interview/blob/main/ProjectLearning.md#cc)
 - [Clojure](https://github.com/Jonyge/Interview/blob/main/ProjectLearning.md#clojure)
 - [Dart](https://github.com/Jonyge/Interview/blob/main/ProjectLearning.md#dart)
-- [艾利克斯（Elixir）](https://github.com/Jonyge/Interview/blob/main/ProjectLearning.md#elixir)
+- [Elixir](https://github.com/Jonyge/Interview/blob/main/ProjectLearning.md#elixir)
 - [Erlang](https://github.com/Jonyge/Interview/blob/main/ProjectLearning.md#erlang)
 - [F#](https://github.com/Jonyge/Interview/blob/main/ProjectLearning.md#f)
 - [Go 语言](https://github.com/Jonyge/Interview/blob/main/ProjectLearning.md#go)
-- [哈斯克 ell](https://github.com/Jonyge/Interview/blob/main/ProjectLearning.md#haskell)
+- [Haskell](https://github.com/Jonyge/Interview/blob/main/ProjectLearning.md#haskell)
 - [HTML/CSS](https://github.com/Jonyge/Interview/blob/main/ProjectLearning.md#html-and-css)
 - [Java](https://github.com/Jonyge/Interview/blob/main/ProjectLearning.md#java)
 - [JavaScript：JavaScript](https://github.com/Jonyge/Interview/blob/main/ProjectLearning.md#javascript)
@@ -26,7 +26,6 @@
 - [Rust](https://github.com/Jonyge/Interview/blob/main/ProjectLearning.md#rust)
 - [Scala](https://github.com/Jonyge/Interview/blob/main/ProjectLearning.md#scala)
 - [Swift](https://github.com/Jonyge/Interview/blob/main/ProjectLearning.md#swift)
-- [附加资源](https://github.com/Jonyge/Interview/blob/main/ProjectLearning.md#additional-resources)
 
 ## C/C++：
 
@@ -193,7 +192,7 @@
 - [Zoom 克隆](https://youtu.be/sMA1dKbv33Y)
 - [Netflix 克隆](https://youtu.be/J8IFNKzs3TI)
 
-## 艾利克斯（Elixir）
+## Elixir
 
 
 
@@ -213,7 +212,7 @@
 
 - [用 100 行 F#编写自己的 Excel](http://tomasp.net/blog/2018/write-your-own-excel)
 
-## Java: 简体中文：Java
+## Java
 
 
 
@@ -222,7 +221,7 @@
 - [构建 Android 手电筒应用](https://www.youtube.com/watch?v=dhWL4DC7Krs) (视频)
 - [构建具有用户认证的 Spring Boot 应用程序](https://spring.io/guides/gs/securing-web/)
 
-## JavaScript: 简体中文：JavaScript
+## JavaScript
 
 
 
@@ -304,7 +303,7 @@
   - [Angular 简介](http://www.discoversdk.com/blog/intro-to-angular-and-the-evolution-of-the-web)
   - [第一部分](http://www.discoversdk.com/blog/angular-5-to-do-list-app-part-1)
 
-#### 节点：
+#### Node：
 
 
 
@@ -333,7 +332,7 @@
 - [Vue.js 待办事项教程（视频）](https://www.youtube.com/watch?v=78tNYZUS-ps)
 - [Vue 2 + Pub/Sub：构建一个多人游戏平台](https://www.ably.io/tutorials/peer-to-peer-vue)
 
-#### 其他人（Hapi、Express...）：
+#### Others（Hapi、Express...）：
 
 
 
